@@ -1,7 +1,5 @@
-// Dumped from fastfile "iw4x_localized_russian".
-// In their original format the strings might have been separated in multiple files.
-VERSION             "1"
-CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+VERSION             "2"
+CONFIG              "C:/trees/cod6/cod6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           CARDTITLE_ASEXUAL
